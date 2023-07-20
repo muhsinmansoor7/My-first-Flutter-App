@@ -1,16 +1,6 @@
 # first_app
+This is my first flutter mobile application, A dice roller.
+I used a stateless as well as a stateful widget along with the material app design feature of Flutter to design it.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I could use the Random() class to generate the pick my png images in the asset/images folder to randomize the dice images.
+Apart from that, I learned about building custom widgets and basic UI features of the Flutter framework, type-safe data types, and name and positional arguments is also a plus point.
